@@ -1,0 +1,14 @@
+INSTRUCTIONS TO RUN THE MODEL:
+0) Install Python 3.10.9 and all the required modules(Refer Requirements.txt)
+1) Open app.py
+2) Run app.py
+3) Done
+
+INSTRUCTIONS TO TRAIN THE MODEL:
+0) Run app.py
+1) Press 'K' to enter training mode
+2)Make the Sign you wish to train
+3) While making the sign press any numkey to register the sign at that number
+4) Open Sign_Language_Detect\model\keypoint_classifier\keypoint_classifier_label.csv
+5)Enter the name of the signs in the sequence of storage
+6) Done
